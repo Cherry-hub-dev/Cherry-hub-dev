@@ -8,10 +8,9 @@ I am an enthusiastic student and data explorer who loves turning messy, raw data
 
 Here are the tools and languages I am learning and using to explore data:
 
-* **Data Analysis:** Microsoft Excel, SQL
-* **Data Visualization:** Power BI
-* **Programming:** Python, JavaScript
-* **Version Control:** Git & GitHub
+* **Data Tools:** ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+* **Databases:** ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+* **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
